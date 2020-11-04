@@ -9,3 +9,4 @@
 
 ## 📔 Como usar?
 
+### 🧬 Função de status e informações de transações
