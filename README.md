@@ -22,7 +22,7 @@ const mpIntegration = new mp_integration({
 ```
 
 Segundamente você deve declarar a função:
-****Versão assíncrona***
+\n ****Versão assíncrona***
 
 ```js
 mpIntegration.checkPaymentStatus(transactionID(Id da transação a ser checada));
