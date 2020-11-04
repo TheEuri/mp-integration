@@ -28,7 +28,7 @@ Segundamente você deve declarar a função:
 let response = await mpIntegration.checkPaymentStatus(transactionID);
 ```
 
-transactionID === Id da transação a ser checada
+> transactionID === Id da transação a ser checada
 
 ****Versão não assíncrona***
 
@@ -36,7 +36,7 @@ transactionID === Id da transação a ser checada
 mpIntegration.checkPaymentStatus(transactionID).then(response => {
 });
 ```
-transactionID === Id da transação a ser checada
+> transactionID === Id da transação a ser checada
 
 **Exemplo de resposta da biblioteca:**
 Dados falsos!
