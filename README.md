@@ -25,5 +25,5 @@ Segundamente você deve declarar a função:
 ****Versão assíncrona***
 
 ```js
-mpIntegration.checkPaymentStatus(transactionID(Id da transação a ser checada));
+let response = await mpIntegration.checkPaymentStatus(transactionID(Id da transação a ser checada));
 ```
