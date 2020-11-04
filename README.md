@@ -39,7 +39,7 @@ mpIntegration.checkPaymentStatus(transactionID(Id da transação a ser checada))
 **Exemplo de resposta da biblioteca:**
 Dados falsos!
 
-```json
+```js
 {
   id: 11935428762,
   external_reference: 'money_transfer-1569060b-7c2a-43d5-ac7d-fdeff2415ce1',
