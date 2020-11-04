@@ -7,7 +7,7 @@
 * **Checar saldo no Mercado Pago**(Saldo disponível, Saldo bloqueado, Saldo pendente).
 * **Checar status e informações de transações** a partir do seu ID.
 
-## 📟 Como pegar seu acess token?
+## 📟 Como pegar seu access token?
 
 Primeiro você deve ascessar a área de credenciais do Mercado Pago [Clicando aqui](https://www.mercadopago.com.br/settings/account/credentials).
 
