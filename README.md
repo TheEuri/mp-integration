@@ -9,7 +9,7 @@
 
 ## 📔 Como usar?
 
-### 🧬 Função de status e informações de transações
+### 🧬 Função de checar status e informações de transações
 
 Primeiro você precisa criar o objeto mpIntegration:
 
@@ -19,4 +19,11 @@ const mp_integration = require('mp-integration');
 const mpIntegration = new mp_integration({
   token: 'Seu token do mercado pago(Tem que ser o de produção)'
 });
+```
+
+Segundamente você deve declarar a função:
+****Versão assíncrona***
+
+```js
+mpIntegration.checkPaymentStatus(transactionID(Id da transação a ser checada));
 ```
