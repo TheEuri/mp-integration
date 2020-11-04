@@ -9,6 +9,8 @@
 
 ## 📟 Como pegar seu acess token?
 
+[https://www.mercadopago.com.br/settings/account/credentials](a)
+
 
 ## 📔 Como usar?
 
