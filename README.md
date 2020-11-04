@@ -10,3 +10,13 @@
 ## 📔 Como usar?
 
 ### 🧬 Função de status e informações de transações
+
+Primeiro você precisa criar o objeto mpIntegration:
+
+```js
+const mp_integration = require('mp-integration');
+
+const mpIntegration = new mp_integration({
+  token: 'Seu token do mercado pago(Tem que ser o de produção)'
+});
+```
