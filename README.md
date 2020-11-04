@@ -27,3 +27,11 @@ Segundamente você deve declarar a função:
 ```js
 let response = await mpIntegration.checkPaymentStatus(transactionID(Id da transação a ser checada));
 ```
+
+****Versão não assíncrona***
+
+```js
+mpIntegration.checkPaymentStatus(transactionID(Id da transação a ser checada)).then(response => {
+
+});
+```
