@@ -25,16 +25,18 @@ Segundamente você deve declarar a função:
 ****Versão assíncrona***
 
 ```js
-let response = await mpIntegration.checkPaymentStatus(transactionID(Id da transação a ser checada));
+let response = await mpIntegration.checkPaymentStatus(transactionID);
 ```
+
+transactionID === Id da transação a ser checada
 
 ****Versão não assíncrona***
 
 ```js
-mpIntegration.checkPaymentStatus(transactionID(Id da transação a ser checada)).then(response => {
-
+mpIntegration.checkPaymentStatus(transactionID).then(response => {
 });
 ```
+transactionID === Id da transação a ser checada
 
 **Exemplo de resposta da biblioteca:**
 Dados falsos!
