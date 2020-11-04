@@ -1,6 +1,6 @@
 {
   "name": "mp-integration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Biblioteca para integrar algumas coisas do mercado pago com a sua aplicação ;D",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/TheEuri/mp-integration.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "TheEuri",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/TheEuri/mp-integration/issues"
   },
