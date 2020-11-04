@@ -9,7 +9,10 @@
 
 ## 📟 Como pegar seu acess token?
 
-Primeiro você deve ascessar a área de credenciais do Mercado Pago [Clique aqui](https://www.mercadopago.com.br/settings/account/credentials)
+Primeiro você deve ascessar a área de credenciais do Mercado Pago [Clicando aqui](https://www.mercadopago.com.br/settings/account/credentials).
+
+Depois você de ve solicitar suas credenciais de produção, quando fizer isto deve seguir estes passos:
+](https://cdn.discordapp.com/attachments/680476162438201366/773690461482254346/Screenshot_1201.png)
 
 
 ## 📔 Como usar?
