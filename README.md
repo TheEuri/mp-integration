@@ -35,3 +35,6 @@ mpIntegration.checkPaymentStatus(transactionID(Id da transação a ser checada))
 
 });
 ```
+
+**Exemplo de resposta da biblioteca:**
+
