@@ -7,6 +7,9 @@
 * **Checar saldo no Mercado Pago**(Saldo disponível, Saldo bloqueado, Saldo pendente).
 * **Checar status e informações de transações** a partir do seu ID.
 
+## 📟 Como pegar seu acess token?
+
+
 ## 📔 Como usar?
 
 ### 🧬 Função de checar saldo e outras informações da conta
