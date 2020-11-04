@@ -9,6 +9,56 @@
 
 ## 📔 Como usar?
 
+### 🧬 Função de checar saldo e outras informações da conta
+
+Primeiro você precisa criar o objeto mpIntegration:
+
+```js
+const mp_integration = require('mp-integration');
+
+const mpIntegration = new mp_integration({
+  token: 'Seu token do mercado pago(Tem que ser o de produção)'
+});
+```
+
+Segundamente você deve declarar a função:
+****Versão assíncrona***
+
+```js
+let response = await mpIntegration.accountBalance();
+```
+
+****Versão não assíncrona***
+
+```js
+mpIntegration.accountBalance().then(response => {
+});
+```
+
+**Exemplo de resposta da biblioteca:**
+Dados falsos!
+
+```js
+{
+  last_modified: '2020-10-28T16:22:24-04:00',
+  user_id: 109876298,
+  total_amount: 0,
+  pending_to_review: 0,
+  available_balance: 0,
+  unavailable_balance: 0,
+  currency_id: 'BRL',
+  tags: [ 'assets_invested' ],
+  block_reason: null,
+  unavailable_balance_by_reason: [],
+  available_balance_by_transaction_type: [
+    { transaction_type: 'payment', amount: 0 },
+    { transaction_type: 'label_purchase', amount: 0 },
+    { transaction_type: 'withdrawal', amount: 0 },
+    { transaction_type: 'transfer', amount: 0 }
+  ]
+}
+```
+
 ### 🧬 Função de checar status e informações de transações
 
 Primeiro você precisa criar o objeto mpIntegration:
