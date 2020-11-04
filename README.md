@@ -9,7 +9,7 @@
 
 ## 📟 Como pegar seu acess token?
 
-Primeiro você deve ascessar a área de credenciais do Mercado Pago (Clique aqui)[https://www.mercadopago.com.br/settings/account/credentials]
+Primeiro você deve ascessar a área de credenciais do Mercado Pago [Clique aqui](https://www.mercadopago.com.br/settings/account/credentials)
 
 
 ## 📔 Como usar?
