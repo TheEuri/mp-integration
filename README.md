@@ -14,9 +14,11 @@ Primeiro você deve ascessar a área de credenciais do Mercado Pago [Clicando aq
 Depois você de ve solicitar suas credenciais de produção, quando fizer isto deve seguir estes passos:
 
 1° Clique em credenciais de produção:
+
 ![](https://cdn.discordapp.com/attachments/680476162438201366/773690461482254346/Screenshot_1201.png)
 
 2° Clique no olhinho para mostrar seu Access Token e o copie **e pronto você agora já tem o seu token 😋**
+
 ![](https://cdn.discordapp.com/attachments/680476162438201366/773690436572151808/Screenshot_1202.png)
 
 
