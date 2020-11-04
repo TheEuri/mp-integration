@@ -173,4 +173,5 @@ Dados falsos!
 }
 ```
 
-## Suporte:
+## 📝 Suporte:
+Se tiver algum problema não exite em abrir uma issue ou chamar no Discord: Euri#1241 
