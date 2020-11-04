@@ -16,7 +16,6 @@ class mpIntegration {
     checkPaymentStatus(transactionID) {
         return checkPaymentFunction(this.token, transactionID);
     }
-
     
 }
 
