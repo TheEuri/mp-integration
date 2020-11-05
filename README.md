@@ -175,17 +175,17 @@ Dados falsos!
 
 **Possíveis Status retornados:**
 
-            // Status = 0 Transação aprovada.
-            // Status = 1 Transação Pendente.
-            // Status = 2 Transação autorizada, porém ainda não creditada.
-            // Status = 3 Transação em verificação pelo Mercado Pago.
-            // Status = 4 Transação em mediação, quando alguem inicia uma disputa.
-            // Status = 5 Transação rejeitada.
-            // Status = 6 Transação cancelada, uma das partes cancelou a transação ou foi cancelado por cauda do tempo de pagamento expirou.
-            // Status = 7 Transação reembolsada.
-            // Status = 8 Transação estornada pelo cartão de crédito.
-            // Status = 404 Transação não encontrada pois ela não existe.
-            // Status = 406 API do marcado pago recusou o request ou não respondeu o mesmo.
+       // Status = 0 Transação aprovada.
+       // Status = 1 Transação Pendente.
+       // Status = 2 Transação autorizada, porém ainda não creditada.
+       // Status = 3 Transação em verificação pelo Mercado Pago.
+       // Status = 4 Transação em mediação, quando alguem inicia uma disputa.
+       // Status = 5 Transação rejeitada.
+       // Status = 6 Transação cancelada, uma das partes cancelou a transação ou foi cancelado por cauda do tempo de pagamento expirou.
+       // Status = 7 Transação reembolsada.
+       // Status = 8 Transação estornada pelo cartão de crédito.
+       // Status = 404 Transação não encontrada pois ela não existe.
+       // Status = 406 API do marcado pago recusou o request ou não respondeu o mesmo.
 
 ## 📝 Suporte:
 Se tiver algum problema não exite em abrir uma issue ou chamar no Discord: Euri#1241 
