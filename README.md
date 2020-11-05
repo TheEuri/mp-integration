@@ -40,13 +40,13 @@ Segundamente você deve declarar a função:
 ****Versão assíncrona***
 
 ```js
-let response = await mpIntegration.accountBalance();
+let response = await mpIntegration.accountBalance(userId);
 ```
 
 ****Versão não assíncrona***
 
 ```js
-mpIntegration.accountBalance().then(response => {
+mpIntegration.accountBalance(userId).then(response => {
 });
 ```
 
