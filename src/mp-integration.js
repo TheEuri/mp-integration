@@ -9,8 +9,8 @@ class mpIntegration {
         this.token = data.token;
     }
 
-    accountBalance() {
-        return checkAccountBalance(this.token);
+    accountBalance(userId) {
+        return checkAccountBalance(this.token, userId);
     }
 
     checkPaymentStatus(transactionID) {

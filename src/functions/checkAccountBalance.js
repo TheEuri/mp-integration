@@ -1,11 +1,11 @@
 var axios = require("axios").default;
 
-async function checkAccountBalance(token) {
+async function checkAccountBalance(token, userId) {
 
     // Configurações da API do Mercado Pago
     var options = {
         method: 'GET',
-        url: 'https://api.mercadopago.com/users/309954883/mercadopago_account/balance#json',
+        url: `https://api.mercadopago.com/users/${userId}/mercadopago_account/balance#json`,
         params: {
             access_token: token
         }
