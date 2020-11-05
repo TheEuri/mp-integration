@@ -21,6 +21,14 @@ Depois você de você solicitar suas credenciais de produção você deve seguir
 
 ![](https://cdn.discordapp.com/attachments/680476162438201366/773690436572151808/Screenshot_1202.png)
 
+## 📟 Como pegar seu userID?
+
+Primeiro você deve ascessar a área de credenciais do Mercado Pago [Clicando aqui](https://www.mercadopago.com.br/settings/account/credentials).
+
+E então você deve seguir esse passo:
+
+Copie esse números **e pronto você agora já tem o seu userID 😋** 
+![](https://cdn.discordapp.com/attachments/680476162438201366/773937857777238096/unknown.png)
 
 ## 📔 Como usar?
 
